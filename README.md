@@ -1,4 +1,4 @@
-[header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Gajjar%20Harsh&fontSize=100&animation=blinking" align="center" width="100%" />
 <h1 align="center">Hi 👋, I'm Gajjar Harsh</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
