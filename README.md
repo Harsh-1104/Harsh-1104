@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Gajjar%20Harsh&fontSize=100&animation=blinking" align="center" width="100%" />
-<h1 align="center">Hi 👋, I'm Gajjar Harsh</h1>
+<h1 align="center">Hello 👋, I'm Gajjar Harsh</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
 - 🔭 I’m currently working on **GATO**
