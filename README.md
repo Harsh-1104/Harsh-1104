@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Gajjar Harsh</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-- 🔭 I’m currently working on **M3**
+- 🔭 I’m currently working on **GATO**
 
 - 📫 How to reach me **gajjarharah1104@gmail.com**
 
