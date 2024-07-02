@@ -2,10 +2,9 @@
 <h1 align="center">Hello 👋, I'm Gajjar Harsh</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-<div align="center">
-  [![](https://visitcount.itsvg.in/api?id=Harsh-1104&icon=5&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Harsh-1104&icon=5&color=0)](https://visitcount.itsvg.in)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/harsh.gajjar.94009/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/gajjarharsh1104/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/gajjarharsh1143)
-</div>
+
 
 
 
