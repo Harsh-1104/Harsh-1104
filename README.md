@@ -5,9 +5,9 @@
 
 [![](https://visitcount.itsvg.in/api?id=Harsh-1104&icon=5&color=0)](https://visitcount.itsvg.in)
 <hr/>
-- 🔭 I’m currently working on **QR based ERP Prject of kustersCalico**
+- 🔭 I’m currently working on **Swiftsend Bulk whatsapp messaging platform**
 
-- 📫 How to reach me **gajjarharah1104@gmail.com**
+- 📫 How to reach me **dev.harshgajjar@gmail.com | gajjarharah1104@gmail.com**
 <hr />
 <table>
   <tr>
