@@ -2,7 +2,9 @@
 <h1 align="center">Hello 👋, I'm Gajjar Harsh</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 <h3 align="center"><a href="https://harshgajjar.hi.link">Personal Website</a></h3>
-
+---
+[![](https://visitcount.itsvg.in/api?id=Harsh-1104&icon=5&color=0)](https://visitcount.itsvg.in)
+<hr/>
 - 🔭 I’m currently working on **QR based ERP Prject of kustersCalico**
 
 - 📫 How to reach me **gajjarharah1104@gmail.com**
@@ -31,7 +33,5 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
----
-[![](https://visitcount.itsvg.in/api?id=Harsh-1104&icon=5&color=0)](https://visitcount.itsvg.in)
-<hr/>
+
 
